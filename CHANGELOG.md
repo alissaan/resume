@@ -17,3 +17,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 - Some format touches on en-us resume.
+
+## [1.0.1]
+
+### Added
+
+- Expertises section on en-us resume.
+
+### Changed
+
+- Techs section on en-us resume
