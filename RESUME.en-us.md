@@ -11,7 +11,7 @@
 
 ## Summary
 
-10 years of experience in the technology industry with strong software engineering skills applied on critical mission systems and creation of digital products.
+10 years of experience in the technology industry with strong software engineering skills applied on critical mission systems and digital products creation.
 
 **Expertises**
 - Practice in acting as a leadership/technical reference
@@ -31,12 +31,16 @@
 
 > Daily techs: C#, ASP.NET Core, WinForms, ASP.NET MVC, WebApi 2, gRPC, Oracle, MongoDB, Redis, SQL Server, RabbitMQ, Locust, SonarQube, Fortify, Docker & Kubernetes, Azure DevOps, Dapper, Entity Framework
 
+<div style="page-break-after: always;"></div>
+
 #### Banco Safra S/A 
 2017/05 - 2019/02
 
  - **Tech-lead**
    
    Responsible for technically leading the development project of the main management tool of the institution's individual portfolio (linked to the investment bank), define and provide guidance on the standard of development to be followed, assist other team members on technologies involved, assist in task management in conjunction with the project manager in addition to participating in technical/functional meetings with internal clients.
+
+   <br>
    
  - **Senior Software Engineer**
    
@@ -54,6 +58,8 @@
     Joga Junto:  acting as backend developer in the construction the Johnson & Johnson sales incentive platform in partnership with Multiplus, in order to    serve all of its distributors partners at country level. I was one of    those responsible for formulating, and, the main responsible for building the technical integration solution (import and export) of the mass of data between internal and external channels (mainly from ERPs) and the points calculation engine (which used the crossing of  these captured data).
 
 > Daily techs: C#, ASP.NET MVC, WebApi 2, JSON, XML, SQL Server, NHibernate, Dapper, Azure, HTML5, Bootstrap 3, JavaScript, AngularJS, KnockoutJS, Git, TFS.
+
+<div style="page-break-after: always;"></div>
 
 #### Sicoob UniMais 
 2011/05 - 2015/11
