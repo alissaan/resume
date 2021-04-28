@@ -1,6 +1,6 @@
 
 # Alisson Silveira
-#### Senior Software Engineer @ Sao Paulo, Brazil
+**Senior Software Engineer @ Sao Paulo, Brazil**
 
 - **Phone:** +55 11 98802-0898
 
@@ -39,7 +39,7 @@
 
 > C#, ASP.NET Core, WinForms, ASP.NET MVC, WebApi 2, JSON, Oracle 12c, SQL Server, MongoDB, Dapper, Entity Framework, HTML5, Bootstrap 3, JavaScript, AngularJS, NodeJS, Git, Jenkins.
 
-### Iterative 
+#### Iterative 
 2016/01 - 2017/04
 
  - **Developer**
@@ -50,7 +50,7 @@
 
 > C#, ASP.NET MVC, WebApi 2, JSON, XML, SQL Server, NHibernate, Dapper, Azure, HTML5, Bootstrap 3, JavaScript, AngularJS, KnockoutJS, Git, TFS.
 
-### Sicoob UniMais 
+#### Sicoob UniMais 
 2011/05 - 2015/11
 
  - **Systems Analyst**

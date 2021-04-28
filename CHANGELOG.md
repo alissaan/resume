@@ -11,3 +11,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - This document
 - English version of resume
+
+## [1.0.0]
+
+### Changed
+
+- Some format touches on en-us resume.
